@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="13431ec5-ed6d-4cc3-9858-68300dfda523" name="myubuntu" url="http://120.78.72.42">
+        <fileTransfer host="120.78.72.42" port="22" rootFolder="/home/lanfd/www/flashchat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
